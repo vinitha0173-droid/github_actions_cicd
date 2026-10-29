@@ -1,5 +1,7 @@
 # Automated CI/CD Pipeline with GitHub Actions
 
+[![Python CI-CD Pipeline](https://github.com/vinitha0173-droid/github_actions_cicd/actions/workflows/ci-cd.yml/badge.svg?branch=main)](https://github.com/vinitha0173-droid/github_actions_cicd/actions/workflows/ci-cd.yml)
+
 ## Project Overview
 
 This project implements an automated Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions. It automates code linting, unit testing, Docker image building, and secure image publishing.
